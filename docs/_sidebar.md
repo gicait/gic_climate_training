@@ -1,8 +1,4 @@
-<!-- index.html -->
+<!-- docs/_sidebar.md -->
 
-<script>
-  window.$docsify = {
-    loadSidebar: true
-  }
-</script>
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+* [Home](/)
+* [Water Cycle](watercycle.md "Water Cycle")
