@@ -7,6 +7,24 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+<style type="text/css">
+  .sidebar li {
+    margin: 0;
+    line-height: 1.8em;
+  }
+
+  .sidebar ul li ul {
+    padding-bottom: 10px;
+  }
+  .content {
+    line-height: 1.5em;
+    overflow: auto;
+  }
+  .sidebar-nav>ul>li>p {
+    font-size: 17px;
+    text-transform: uppercase;
+  }
+</style>
 </head>
 <body>
   <div data-app id="main">Please wait...</div>
@@ -19,11 +37,14 @@
   </script>
   <script>
     window.$docsify = {
-      loadSidebar: true
+      loadSidebar: true,
+      search: "auto",
+      auto2top: true
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="https://cdn.jsdelivr.net/gh/rizdaprasetya/docsify-fix-pageload-scroll@master/index.js"></script>
 </body>
 </html>
