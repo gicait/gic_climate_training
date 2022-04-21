@@ -17,7 +17,7 @@
     padding-bottom: 10px;
   }
   .content {
-    line-height: 1.5em;
+    line-height: 1.8em;
     overflow: auto;
   }
   .sidebar-nav>ul>li>p {
@@ -30,21 +30,32 @@
   <div data-app id="main">Please wait...</div>
   <div id="app"></div>
   <script>
-    window.$docsify = {
-      name: 'GIC Climate Training',
-      repo: ''
-    }
-  </script>
-  <script>
+    
     window.$docsify = {
       loadSidebar: true,
-      search: "auto",
-      auto2top: true
+      subMaxLevel: 2,
+      logo: '/_media/ait_gic_logo.png',
+      name: 'GIC Climate Downscaling Training Materials',
+      repo: '',
+      
+      search: 'auto',
+
+      // complete configuration parameters
+      search: {
+        maxAge: 86400000, // Expiration time, the default one day
+        paths: 'auto',
+        placeholder: 'Search',
+        noData: 'No Results!',
+        // Headline depth, 1 - 6
+        depth: 6,
+        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+      }
     }
   </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-  <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-  <script src="https://cdn.jsdelivr.net/gh/rizdaprasetya/docsify-fix-pageload-scroll@master/index.js"></script>
+
+<!-- Docsify v4 -->
+<script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+<script src="https://cdn.jsdelivr.net/gh/rizdaprasetya/docsify-fix-pageload-scroll@master/index.js"></script>
+<script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
