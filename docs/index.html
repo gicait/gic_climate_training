@@ -10,15 +10,14 @@
 <style type="text/css">
   .sidebar li {
     margin: 0;
-    line-height: 1.8em;
+    line-height: 1.7em;
   }
 
   .sidebar ul li ul {
-    padding-bottom: 10px;
+    padding-bottom: 3px;
   }
   .content {
     line-height: 1.8em;
-    overflow: auto;
   }
   .sidebar-nav>ul>li>p {
     font-size: 17px;
@@ -33,7 +32,8 @@
     
     window.$docsify = {
       loadSidebar: true,
-      subMaxLevel: 2,
+      subMaxLevel: 3,
+      auto2top: true,
       logo: '/_media/ait_gic_logo.png',
       name: 'GIC Climate Downscaling Training Materials',
       repo: '',
