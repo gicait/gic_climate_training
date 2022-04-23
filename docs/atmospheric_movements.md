@@ -61,4 +61,4 @@ The pressure gradient force initiates movement of atmospheric mass, wind, from a
 
 ### Frictional force
 - Air is <font color="red">not</font> very viscous, but very turbulent becase of friction.
-- Friction slows and changes the wind direction -- this causes turbulence .... TBC
+- Friction slows and changes the wind direction -- this causes turbulence .... TBC TBC TBC
