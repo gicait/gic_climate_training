@@ -55,10 +55,43 @@ The pressure gradient force initiates movement of atmospheric mass, wind, from a
 
 
 
-<img width=0.4\textwidth src="/_equations/gravitationalpull.png">
+![image](./_equations/gravitationalpull.png "Gravitational Pull")
 
 
 
 ### Frictional force
 - Air is <font color="red">not</font> very viscous, but very turbulent becase of friction.
-- Friction slows and changes the wind direction -- this causes turbulence .... TBC TBC TBC
+- Friction slows and changes the wind direction -- this causes turbulence .... 
+
+- Frictional force is caused bz the flow of the wind over the roughness of the Earth's surface.
+- Friction slows down the wind
+- It acts in the direction oppoosite to the movemeng
+- It is important in the Atmospheric Boundary Layer
+
+> FF = -kV
+
+
+
+
+## Apparent Forces
+### Centrifugal force
+
+The centrifugal force is an apparent force that includes the effects of inertia for winds moving along a curved path. The directionality of the centrifugal force points outward from the center of the curve. The centrifugal force is the opposite of the centripetal force. As we know, inertia is the physical tendency to remain unchanged. Therefore inertia causes an air parcel to “want” to move along a straight line. Turning the air parcel along a curved path requires a centripetal force that pulls inward to the center of rotation. As a result, a net imbalance of other forces occurs.
+
+You have felt the centrifugal force many times in your life. The centrifugal force is easily felt as you travel in a moving vehicle around a corner. The force that you feel pulling you outwards is the centrifugal force.
+
+
+
+- It is caused by the rotation of the Earth
+- The force is directed outward from the center of curving motion
+- It increases as the speed of the object increases or speed of the object decreases.
+- It is an important force in hurricanes and tornadoes.
+
+### Colioris force
+
+The Coriolis force (CF) is another apparent force that occurs due to the rotation of Earth. The Coriolis force is a deflecting force. It acts only on objects already in motion. Therefore it cannot create wind, but it can change the wind direction by deflecting it. The Coriolis force acts perpendicular to the direction of motion, but whether the Coriolis force acts 90° to the right or left of the motion vector depends on the hemisphere on Earth. In the Northern Hemisphere, the Coriolis force acts 90° to the right of the motion vector while in the Southern Hemisphere, the force acts 90° to the left of the motion vector. The equation below gives the Coriolis force
+
+![image](./_equations/coriolis.png "Coriolis Force")
+
+
+We can also see that the Coriolis force is strongly dependent on the speed of the object. If we assume the “object” is actually wind, stronger winds will be more strongly deflected by the Coriolis force.
