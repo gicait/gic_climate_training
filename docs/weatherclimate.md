@@ -1,4 +1,4 @@
-# Weather and Climate
+# Weather and Climate Change
 
 **Weather**: Conditions of the atmosphere over a <font color="red">short period</font> of time (i.e. temporary conditions of the atmosphere).
 

@@ -2,17 +2,17 @@
 
 * [Home](/)
 * **Introduction**
-    * [Weather and Climate](weatherclimate.md "Weather&Climate")
+    * [Weather and Climate Change](weatherclimate.md "Weather&Climate Change")
     * [Atmospheric Movements](atmospheric_forces.md "Atmospheric Forces")
     * [Hydrological Cycle](hydrologicalcycle.md "Hydrological Cycle")
     * [Energy Balance](energy_balance.md "Energy Balance")
-    * [Climate Change Scenarios]()
-    * [Climate Change Models]()
-    * [Climate Downscaling]()
+    * [Climate Change Scenarios](clim_ssp.md "Climate Change Scenarios")
+    * [Climate Change Models](clim_mod.md "Climate Change Models")
+    * [Climate Downscaling](clim_downscaling.md "Climate Downscaling")
 
 * **Technical Introduciton**
-    * [Linux and Shell scripting]()
-    * [Setting up Linux environment for WRF]()
+    * [Linux and Shell scripting](linux_shell.md "Linux and Shell scripting")
+    * [Setting up Linux environment for WRF](linux_env.md "Setting up Linux environment")
 
 * **Dynamical Downscaling**
     * [What wre WRF and WPS?]()
