@@ -3,7 +3,9 @@
 * [Home](/)
 * **Introduction**
     * [Weather and Climate](weatherclimate.md "Weather&Climate")
-    * [Atmospheric Movements](atmospheric_movements.md "Atmospheric Movements")
+    * [Atmospheric Movements](atmospheric_forces.md "Atmospheric Forces")
+    * [Hydrological Cycle](hydrologicalcycle.md "Hydrological Cycle")
+    * [Energy Balance](energy_balance.md "Energy Balance")
     * [Climate Change Scenarios]()
     * [Climate Change Models]()
     * [Climate Downscaling]()

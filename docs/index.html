@@ -32,7 +32,7 @@
     
     window.$docsify = {
       loadSidebar: true,
-      subMaxLevel: 4,
+      subMaxLevel: 3,
       auto2top: true,
       logo: '/_media/ait_gic_logo.png',
       name: 'GIC Climate Downscaling Training Materials',
@@ -47,7 +47,7 @@
         placeholder: 'Search',
         noData: 'No Results!',
         // Headline depth, 1 - 6
-        depth: 6,
+        depth: 3,
         hideOtherSidebarContent: false, // whether or not to hide other sidebar content
       }
     }
@@ -57,5 +57,9 @@
 <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 <script src="https://cdn.jsdelivr.net/gh/rizdaprasetya/docsify-fix-pageload-scroll@master/index.js"></script>
 <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+<!-- CDN files for docsify-katex -->
+<script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
+<!-- or <script src="//cdn.jsdelivr.net/gh/upupming/docsify-katex@latest/dist/docsify-katex.js"></script> -->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css" />
 </body>
 </html>
