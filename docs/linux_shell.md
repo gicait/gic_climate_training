@@ -65,6 +65,21 @@ username@system_name:~$ peekabop  #bad command/does not exist
 ---
 
 ## Navigating Linux's File System
+- Directories (i.e. folders) are collections of files and other directories.
+- Every directory has a parent except for the root directory.
+- Many directories have subdirectories.
+- Essential navigation commands:
+  - **pwd** &emsp;  print current directory
+  - **ls**  &emsp;  list files (filename)
+  - **ll**  &emsp;  list files (details)
+  - **cd**  &emsp;  change directory
+  - **cp** &emsp; copy a file
+  - **mv** &emsp; move or rename a file
+  - **rm** &emsp; remove a file
+  - **mkdir** &emsp; make a new directory(folder)
+  - **df** &emsp; report on the system's disk space usage
+  - **du** &emsp; report on the disk usage
+ 
 
 | **Directory** | **Description** |
 |---|---|
