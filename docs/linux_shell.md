@@ -15,7 +15,7 @@ An operating system is software that manages all of the hardware resources assoc
 | Secure and versatile              |                                               |
 | Scalable                          |                                               |
 ---
-# Interaction with Linux
+## Interaction with Linux
 ### The Shell
 - Program that **interprets commands** and sends them to the OS
 - Provides:
