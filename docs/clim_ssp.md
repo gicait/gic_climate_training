@@ -44,7 +44,7 @@
   - AR6 - 2022
 
 --- 
-### AR1 (1990)
+#### AR1 (1990)
 - Scenario A (Business-as-usual)
   - Coal-intensive energy supply
   - Higher emissions (10-20%) of carbon dioxide and methane by 2025
@@ -64,14 +64,14 @@
   - Shift to renewables and nuclear in the first half of the next century
 ---
 
-### SAR (1992) : "Second Assessment Report"
+#### SAR (1992) : "Second Assessment Report"
 
 <div align=left>
 <img width=70% src="./_media/ar2.png"/>
 </div>
 
 ---
-### TAR (2001) : "Third Assessment Report"
+#### TAR (2001) : "Third Assessment Report"
 - A1 Scenario family
   - Very rapid economic growth
   - Global population peaks in mid-century and decreases
@@ -104,7 +104,7 @@
 
 ---
 
-### AR4 (2007) 
+#### AR4 (2007) 
 - The driving forces considered in defining the scenarios in AR4 are:
   - Population
   - Economy
@@ -118,18 +118,33 @@
 
 ---
 
-### AR5 (2013) 
+#### AR5 (2014) 
 - The climate projections in AR5 are based on "Representative Concentration Pathways" (RCPs).
-- The RCPs are consistent with a wide range of possible changes in future anthropogenic greenhouse gas emissions.
+- A RCP is a **greenhouse gas concentration** <span style="color:red">(not emission)</span> trajectory.
+- Four pathways were use, each describes a different climate future, all of which are considered possible depending on the volume of greenhouse gases (GHG) emitted in the years to come. 
+- The RCPs – originally RCP2.6, RCP4.5, RCP6, and RCP8.5 – are labelled after a possible range of radiative forcing values in the year 2100 (2.6, 4.5, 6, and 8.5 W/m$^2$, respectively).
+  - **RCP 2.6**: Radiative forcing peaks at approximately 3 W/m$^2$ before 2100 and then declines
+  - **RCP 4.5**: Radiative forcing is stabilized at approximately 4 5 W/m$^2$ after 2100
+  - **RCP 6.0**: Radiative forcing is stabilized at approximately 6 W/m$^2$ after 2100
+  - **RCP 8.5**: Radiative forcing reaches greater than 8.5 W/m$^2$ by 2100
+
+- The anthropogenic GHG emissions are driven mainly by:
+  - Population size
+  - Economic activities
+  - Lifestyles
+  - Energy uses
+  - Land use patterns
+  - Technologies
+  - Climate policies
 
 
 <div align=left>
-<img width=\textwidth src="./_media/ar4.png"/>
+<img width=\textwidth src="./_media/ar5.png"/>
 </div>
 
 ---
-
-## Current assessment scenarios: Shared Socioeconomic Pathways (SSPs)  
+## AR6 (2022)
+#### Current assessment scenarios: Shared Socioeconomic Pathways (SSPs)  
 
 
 
