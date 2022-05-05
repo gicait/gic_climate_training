@@ -12,11 +12,12 @@
 
 * **Technical Introduciton**
     * [Linux and Shell scripting](linux_shell.md "Linux and Shell scripting")
-    * [Setting up Linux environment for WRF](linux_env.md "Setting up Linux environment")
+    
 
 * **Dynamical Downscaling**
-    * [What wre WRF and WPS?]()
-
+    * [What are WRF and WPS?](wrfwps.md "What are WRF and WPS?")
+    * [Physics of WRF](wrf_physics.md "The Physics of WRF")
+    * [Setting up Linux environment for WRF](linux_env.md "Setting up Linux environment for WRF")
 * **Statistical Downscaling**
     * [GCM selection]()
     * [Accessing and downloading GCM data]()
