@@ -10,7 +10,7 @@ There are 6 main components of weather.
 - Humidity
 - Cloudiness
 
-**Climate** : Average atmospheric condition (weatehr) in a specific region, over relatively <font color="red">long period</font> of time.
+**Climate** : Average atmospheric condition (weather) in a specific region, over relatively <font color="red">long period</font> of time.
 
 
 ### The Water Cycle and Climate Change
