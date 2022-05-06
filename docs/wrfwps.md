@@ -1,21 +1,26 @@
-## Weather Research and Forecasting Model (WRF)
-### What is WRF?
+## **Weather Research and Forecasting Model (WRF)**
+### **What is WRF?**
 - The Weather Research and Forecasting (WRF) Model is a next-generation mesoscale numerical weather prediction system designed for both atmospheric research and operational forecasting applications.
 - The model serves a wide range of meteorological applications across scales from tens of meters to thousands of kilometers.
 - The effort to develop WRF began in the latter 1990's and was a collaborative partnership of the National Center for Atmospheric Research (NCAR), the National Oceanic and Atmospheric Administration (represented by the National Centers for Environmental Prediction (NCEP) and the Earth System Research Laboratory), the U.S. Air Force, the Naval Research Laboratory, the University of Oklahoma, and the Federal Aviation Administration (FAA).
 
-#### Inside WRF
+#### **WRF Model Types**
 - WRF has 2 dynamical cores:
-  -  **The Advanced Research WRF (ARW)**
-  -  **Non-hydrostatic Mesoscale Model (NMMM)**
-- Dynamical core includes mostly advection, pressure gradients, Coriolis force, buoyancy force, filters, diffusion, and time-stepping.
-- ARW development, maintenance and support are centered at NCAR/Mesoscale& Microscale Meteorology(MMM)
-- NMM development was centered at NCEP/Environmental Modelling Center(EMC) and support is provided by NCAR/Development Tested Center (DTC)
+  -  **The Advanced Research WRF (ARW)** (supported by NCAR)
+  -  **Non-hydrostatic Mesoscale Model (NMMM)** (supported by NOAA/NCEP)
+  
+- Specialized Versions of WRF
+    - HWRF: Forecasts the track and intensity of tropical cyclones
+    - WRF-AHW: WRF-ARW for hurricane research
+    - WRF-Chem: Couples chemistry with WRF-ARW
+    - Polar WRF: WRF-ARW modified for polar regions
+
+
   
 
 
 ---
-### What can WRF be used for?
+### **What can WRF be used for?**
 - WRF offers operational forecasting a flexible and computationally-efficient platform, while reflecting recent advances in physics, numerics, and data assimilation contributed by developers from the expansive research community.
 
 - For researchers, WRF can produce simulations based on actual atmospheric conditions (i.e.from observations and analyses) or idealized conditions. 
@@ -31,8 +36,8 @@
 
 
 ---
-## WRF Preprocessing System (WPS)
-### What is WPS?
+## **WRF Preprocessing System (WPS)**
+### **What is WPS?**
 - A collection
 of Fortran and C programs that provides data used as input to the *real.exe* program. There are **three main programs** and a number of auxiliary programs that are part of WPS.
 
