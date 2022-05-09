@@ -51,12 +51,39 @@
 2. Download CORDEX source codes into the WRF folder and unpack
     >sudo wget https://zenodo.org/record/1469651/files/WRFV4.0_CORDEX_v1.3.tar.gz -P WRF/
 
-    > cd WRF/
-
-    > tar xvfz WRFV4.0_CORDEX_v1.3.tar.gz
+    >cd WRF/
+    
+    >tar xvfz WRFV4.0_CORDEX_v1.3.tar.gz
 
 3. Edit the Registry.EM file
 
-    > cd Registry
+    > cd Registry/
 
-    > v
+    Look for the file named 'Registry.EM', then open the file to edit by adding '***include registry.cordex***' right after the line '***include registry.em_shared_collection***'
+
+    Using the command line, the commands could look like these steps:
+    > vi Registry.EM
+
+    Once entered Vi text editor, press 'i' to insert text, then use arrows buttons to navigate to the line you want to insert.
+
+    After the ***include registry.cordex*** has been inserted, press **Esc**. Then,
+    > :wq
+
+    This command will save the text file that we just edited and quit the text editor. 
+
+    If you would like to quit the editor without saving, use:
+    > :q!
+
+    And finishing this step by move up a directory and re-enter into the WRF folder.
+
+    > cd ..
+
+  4. Clean up all the auxiliary files before compiling WRF
+   
+      > ./clean -a
+
+  5. Set the configuration set up for the WRF
+      > ./configure
+
+      when prompted with **Enter selection [1-75]**:
+
