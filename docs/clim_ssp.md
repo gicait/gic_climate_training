@@ -67,7 +67,7 @@
 #### SAR (1992) : "Second Assessment Report"
 
 <div align=left>
-<img width=70% src="./_media/ar2.png"/>
+<img width=70% src="./_media/ar2.PNG"/>
 </div>
 
 ---
@@ -99,7 +99,7 @@
   - Less rapid and more diverse technological change than A1 and B1
   
 <div align=left>
-<img width=350 height=300 src="./_media/ar3.png"/>
+<img width=350 height=300 src="./_media/ar3.PNG"/>
 </div>
 
 ---
