@@ -23,7 +23,7 @@ Higher evaporation and precipitation rates are not evenly distributed around the
 
 Warmer temperatures associated with climate change and increased carbon dioxide levels may speed plant growth in regions with ample moisture and nutrients. This could lead to increased transpiration, the release of water vapor into the air by plants as a result of photosynthesis.
 <div align=center>
-<img width=\textwidth src="https://www.climaterealityproject.org/sites/climaterealityproject.org/files/blog/Water_Cycle_Updated.png"/>
+<img width=\textwidth src="https://images.squarespace-cdn.com/content/v1/57d6c9f5d2b85728ed469f50/1537378810411-2K1J35HD7UHFL4RJH393/Water_Cycle_Updated.png"/>
 </div>
 
 #### Changing climate means changing weather.
