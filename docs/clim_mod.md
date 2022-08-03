@@ -19,7 +19,7 @@ its characteristics.
 - A climate model is a mathematical representation of the climate system based on physical biological and chemical principles. 
   
 <div align=center>
-<img width=\textwidth src="./_media/gcm_parts.png"/>
+<img width=\textwidth src="./_media/gcm_parts.PNG"/>
 </div>
 
 ### Insights into GCMs
